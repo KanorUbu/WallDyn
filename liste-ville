@@ -1,0 +1,536 @@
+FRXX0001:Aix-en-Provence:France:43.52:5.45
+FRXX0002:Albi:France:43.93:2.15
+FRXX0003:Annemasse:France:46.19:6.24
+FRXX0004:Antibes:France:43.92:7.12
+FRXX0005:Arnage:France:47.93:.19
+FRXX0006:Aubagne:France:43.29:5.57
+FRXX0007:Aubervilliers:France:48.91:2.38
+FRXX0008:Auxerre:France:47.80:3.57
+FRXX0009:Aytre:France:46.13:-1.11
+FRXX0010:Bayeux:France:49.28:-.71
+FRXX0011:Beauvais:France:49.43:2.08
+FRXX0012:Belfort:France:47.64:6.86
+FRXX0013:Beziers:France:43.34:3.22
+FRXX0014:Blois:France:47.59:1.33
+FRXX0015:Bobigny:France:48.91:2.44
+FRXX0016:Bordeaux:France:44.84:-.58
+FRXX0017:Bourg-en-Bresse:France:46.20:5.23
+FRXX0018:Bourges:France:47.08:2.40
+FRXX0019:Brest:France:48.39:-4.49
+FRXX0020:Caen:France:49.18:-.36
+FRXX0021:Cagnes-sur-Mer:France:43.66:7.15
+FRXX0022:Cahors:France:44.45:1.44
+FRXX0023:Cannes:France:43.55:7.01
+FRXX0024:Carbon-Blanc:France:44.89:-.50
+FRXX0025:Carcassonne:France:43.21:2.36
+FRXX0026:Carquefou:France:47.30:-1.49
+FRXX0027:Castelnau-de-Medoc:France:45.03:-.80
+FRXX0028:Chantilly:France:49.19:2.47
+FRXX0029:Chartres:France:48.44:1.48
+FRXX0030:Chateauroux:France:46.81:1.69
+FRXX0031:Chatelaillon:France:46.07:-1.09
+FRXX0032:Cherbourg:France:49.64:-1.61
+FRXX0033:Cholet:France:47.06:-.88
+FRXX0034:Colmar:France:48.08:7.36
+FRXX0035:Coulans:France:48.02:.01
+FRXX0036:Dijon:France:47.33:5.04
+FRXX0037:Dreux:France:48.74:1.36
+FRXX0038:Evreux:France:49.02:1.15
+FRXX0039:Fabregues:France:43.55:3.77
+FRXX0040:Frejus:France:43.43:6.74
+FRXX0041:Grasse:France:43.66:6.92
+FRXX0042:Haguenau:France:48.82:7.79
+FRXX0043:La Bazoge:France:48.10:.15
+FRXX0044:La Rochelle:France:46.16:-1.15
+FRXX0045:Landerneau:France:48.45:-4.25
+FRXX0046:Le Grand-Quevilly:France:49.41:1.05
+FRXX0047:Le Havre:France:49.49:.11
+FRXX0048:Le Mans:France:48.01:.20
+FRXX0049:Lens:France:50.43:2.83
+FRXX0050:Les Sables-d'Olonne:France:46.50:-1.77
+FRXX0051:Libourne:France:44.92:-.24
+FRXX0052:Lille:France:50.64:3.06
+FRXX0053:Lisieux:France:49.15:.23
+FRXX0054:Lorient:France:47.75:-3.37
+FRXX0055:Lyon:France:45.76:4.84
+FRXX0056:Macon:France:46.30:4.83
+FRXX0057:Malicorne:France:47.82:-.08
+FRXX0058:Marignane:France:43.42:5.21
+FRXX0059:Marseille:France:43.29:5.41
+FRXX0060:Meaux:France:48.96:2.88
+FRXX0061:Melun:France:48.54:2.66
+FRXX0062:Menton:France:43.78:7.51
+FRXX0063:Merignac:France:44.83:-.63
+FRXX0064:Metz:France:49.12:6.17
+FRXX0065:Mondeville:France:49.18:-.32
+FRXX0066:Montargis:France:48.00:2.73
+FRXX0067:Montauban:France:44.02:1.36
+FRXX0068:Montpellier:France:43.61:3.88
+FRXX0069:Mont-Saint-Aignan:France:49.47:1.09
+FRXX0070:Morlaix:France:48.58:-3.83
+FRXX0071:Mulhouse:France:47.75:7.34
+FRXX0072:Nantes:France:47.22:-1.56
+FRXX0073:Nice:France:43.70:7.27
+FRXX0074:Orleans:France:47.90:1.90
+FRXX0075:Orvault:France:47.27:-1.62
+FRXX0076:Paris:France:48.86:2.35
+FRXX0077:Paris/Charles De Gaulle:France:49.01:2.56
+FRXX0078:Pessac:France:44.80:-.63
+FRXX0079:Quimper:France:48.00:-4.10
+FRXX0080:Reims:France:49.26:4.03
+FRXX0081:Reze:France:47.18:-1.55
+FRXX0082:Roanne:France:46.04:4.07
+FRXX0083:Rochefort:France:45.93:-.98
+FRXX0084:Roubaix:France:50.69:3.17
+FRXX0085:Rouen:France:49.44:1.10
+FRXX0086:Saint-Brieuc:France:48.51:-2.76
+FRXX0087:Saint-Denis:France:48.93:2.37
+FRXX0088:Saint-Die:France:48.28:6.95
+FRXX0089:Saint-Etienne-du-Rouvray:France:49.38:1.11
+FRXX0090:Saint-Lo:France:49.12:-1.08
+FRXX0091:Saint-Nazaire:France:47.27:-2.21
+FRXX0092:Saint-Raphael:France:43.42:6.77
+FRXX0093:Salon-de-Provence:France:43.64:5.09
+FRXX0094:Sete:France:43.40:3.70
+FRXX0095:Strasbourg:France:48.58:7.74
+FRXX0096:Talence:France:44.81:-.59
+FRXX0097:Tarbes:France:43.23:.07
+FRXX0098:Toulon:France:43.13:5.93
+FRXX0099:Toulouse:France:43.60:1.44
+FRXX0100:Tours:France:47.39:.69
+FRXX0101:Troyes:France:48.30:4.07
+FRXX0102:Valence:France:44.93:4.89
+FRXX0103:Valognes:France:49.51:-1.47
+FRXX0104:Vendargues:France:43.66:3.97
+FRXX0105:Venissieux:France:45.70:4.88
+FRXX0106:Versailles:France:48.80:2.13
+FRXX0107:Vienne:France:45.52:4.87
+FRXX0108:Vierzon:France:47.22:2.07
+FRXX0109:Villefranche-sur-Saone:France:45.99:4.72
+FRXX0110:Villeurbanne:France:45.76:4.88
+FRXX0111:Abbeville:France:50.13:1.83
+FRXX0112:La Hague:France:49.72:-1.93
+FRXX0113:Ouessant:France:48.46:-5.10
+FRXX0114:Rennes:France:48.11:-1.68
+FRXX0115:Nancy/Essey:France:48.71:6.22
+FRXX0116:Le Talut:France:47.30:-3.22
+FRXX0117:invalide:invalide:invalide:invalide
+FRXX0118:Chassiron:France:46.04:-1.40
+FRXX0119:Limoges:France:45.83:1.26
+FRXX0120:Clermont-Ferrand:France:45.78:3.08
+FRXX0121:Gourdon:France:44.75:1.40
+FRXX0122:Millau:France:44.10:3.08
+FRXX0123:Montelimar:France:44.56:4.75
+FRXX0124:Embrun:France:44.57:6.50
+FRXX0125:Biarritz:France:43.48:-1.56
+FRXX0126:Saint-Girons:France:43.00:1.10
+FRXX0127:Cap Cepet:France:43.07:5.93
+FRXX0128:Perpignan:France:42.70:2.89
+FRXX0129:Ajaccio:France:41.92:8.74
+FRXX0130:Bastia:France:42.70:9.45
+FRXX0131:Medoc:France:45.40:-1.00
+FRXX0132:Royan:France:45.63:-1.03
+FRXX0133:invalide:invalide:invalide:invalide
+FRXX0134:Topla:France:48.45:1.95
+FRXX0135:Agen:France:44.20:.61
+FRXX0136:invalide:invalide:invalide:invalide
+FRXX0137:Angers:France:47.47:-.55
+FRXX0138:Auch:France:43.65:.59
+FRXX0139:Aurillac:France:44.93:2.44
+FRXX0140:Bergerac:France:44.85:.48
+FRXX0141:Besancon:France:47.24:6.03
+FRXX0142:Bourg-Saint-Maurice:France:45.62:6.77
+FRXX0143:Briancon:France:44.90:6.63
+FRXX0144:Brive:France:45.16:1.53
+FRXX0145:Cambrai:France:50.18:3.23
+FRXX0146:Carpentras:France:44.05:5.05
+FRXX0147:Chambery:France:45.57:5.92
+FRXX0148:Cognac:France:45.69:-.32
+FRXX0149:Dax:France:43.71:-1.06
+FRXX0150:Deauville:France:49.36:.07
+FRXX0151:Dunkerque:France:51.03:2.38
+FRXX0152:Epinal:France:48.17:6.45
+FRXX0153:Grenoble:France:45.19:5.73
+FRXX0154:Hyeres:France:43.12:6.13
+FRXX0155:Ile-de-Batz:France:48.75:-4.02
+FRXX0156:Ile Rousse:France:42.63:8.94
+FRXX0157:Istres:France:43.43:5.54
+FRXX0158:La Roche-sur-Yon:France:46.67:-1.42
+FRXX0159:Laval:France:48.07:-.76
+FRXX0160:Le Touquet:France:50.52:1.59
+FRXX0161:Lons-le-Saunier:France:46.67:5.55
+FRXX0162:Mende:France:44.52:3.50
+FRXX0163:Mont-de-Marsan:France:43.89:-.50
+FRXX0164:Nevers:France:46.99:3.16
+FRXX0165:Nimes:France:43.83:4.36
+FRXX0166:Niort:France:46.32:-.46
+FRXX0167:Orange:France:44.14:4.81
+FRXX0168:Pau:France:43.30:-.37
+FRXX0169:Perigueux:France:45.19:.72
+FRXX0170:Poitiers:France:46.59:.34
+FRXX0171:Rodez:France:44.35:2.57
+FRXX0172:Solenzara:France:41.86:9.40
+FRXX0173:Saint-Dizier:France:48.64:4.95
+FRXX0174:Toul-Rosieres:France:48.78:5.98
+FRXX0175:Trappes:France:48.78:2.00
+FRXX0176:Vannes:France:47.65:-2.76
+FRXX0177:Vichy:France:46.12:3.42
+FRXX0178:La Chiappa:France:41.59:9.28
+FRXX0179:La Coudre:France:46.95:-.47
+FRXX0180:Porquerolles:France:43.00:6.20
+FRXX0181:Landes:France:45.99:-.60
+FRXX0200:Creuse:France:46.06:1.99
+FRXX0201:Evry:France:48.62:2.43
+FRXX0202:Nanterre:France:48.89:2.20
+FRXX0203:Bar-le-Duc:France:48.77:5.16
+FRXX0204:Foix:France:42.96:1.61
+FRXX0205:Charleville-Mezieres:France:49.77:4.72
+FRXX0206:Laon:France:49.56:3.62
+FRXX0207:Alencon:France:48.43:.08
+FRXX0208:Privas:France:44.73:4.60
+FRXX0209:Le Puy-en-Velay:France:45.04:3.89
+FRXX0210:Vesoul:France:47.62:6.16
+FRXX0211:Digne-les-Bains:France:44.09:6.23
+FRXX0212:Chamonix:France:45.93:6.87
+FRXX0213:Brides-les-Bains:France:45.45:6.57
+FRXX0214:La Grave:France:45.04:6.31
+FRXX0215:Saint-Tropez:France:43.27:6.64
+FRXX0216:Ancette:France:44.82:3.62
+FRXX0217:Bareges:France:42.90:.06
+FRXX0218:Bois des Seignus:France:44.24:6.64
+FRXX0219:Bonneval-sur-Arc:France:45.37:7.05
+FRXX0220:Cauterets:France:42.89:-.11
+FRXX0221:Chedde:France:45.92:6.71
+FRXX0222:Clot Meyran:France:44.38:6.58
+FRXX0223:Crey-Rond:France:45.15:6.38
+FRXX0224:Dieppe:France:49.93:1.09
+FRXX0225:Favray:France:45.80:6.53
+FRXX0226:Foret de Risoul:France:44.63:6.62
+FRXX0227:Serre Chevalier:France:44.93:6.54
+FRXX0228:Hauteluce:France:45.75:6.59
+FRXX0229:Isola:France:43.27:6.63
+FRXX0230:L'Alpe-d'Huez:France:45.09:6.06
+FRXX0231:La Clusaz:France:45.91:6.43
+FRXX0232:La Gurraz:France:45.54:6.90
+FRXX0233:La Plagne:France:45.48:2.13
+FRXX0234:Lavalette:France:45.13:4.22
+FRXX0235:La Calvaire:France:45.25:6.30
+FRXX0236:Le Cugnon:France:45.82:6.73
+FRXX0237:Le Fey:France:45.49:6.47
+FRXX0238:Le Manchet:France:45.42:6.97
+FRXX0239:Le Peyrou:France:44.62:3.10
+FRXX0240:Le Truc:France:45.17:6.63
+FRXX0241:Les Freaux:France:45.04:6.28
+FRXX0242:Les Geymonds:France:45.09:5.55
+FRXX0243:Les Grands Vans:France:46.02:6.70
+FRXX0244:Les Ougiers:France:44.99:6.08
+FRXX0245:Megeve:France:45.86:6.62
+FRXX0246:Meribel:France:45.40:6.57
+FRXX0247:Montagne de Cherferie:France:45.38:6.53
+FRXX0248:Montagne de Mazeliere:France:44.45:6.53
+FRXX0249:Montgesin:France:45.52:6.63
+FRXX0250:Montvalezan-sur-Seez:France:45.62:6.80
+FRXX0251:Morzine:France:46.18:6.71
+FRXX0252:Orcieres:France:44.68:6.32
+FRXX0253:Pied Aigu:France:45.18:5.47
+FRXX0254:Pierre Besse:France:45.25:2.75
+FRXX0255:Pointe Turra:France:45.27:6.88
+FRXX0256:Pointe de Corbier:France:45.23:6.25
+FRXX0257:Pointe de l' Eygliere:France:44.82:6.42
+FRXX0258:Roche:France:45.62:3.95
+FRXX0259:Rocher de l' Homme:France:45.10:5.88
+FRXX0260:Roussis:France:45.82:1.05
+FRXX0261:Samoens:France:46.08:6.73
+FRXX0262:Seez:France:45.62:6.80
+FRXX0263:Tete de Viraysse:France:44.47:6.87
+FRXX0264:Torrent des Encombres:France:45.38:6.49
+FRXX0265:Tougnete:France:45.37:6.57
+FRXX0266:Vancroit:France:45.53:6.77
+FRXX0267:Vars:France:44.57:6.68
+FRXX0268:les Chozalets:France:45.97:6.92
+FRXX0269:Amiens:France:49.89:2.29
+FRXX0270:Avignon:France:43.95:4.81
+FRXX0271:Boulogne:France:50.73:1.61
+FRXX0272:Calais:France:50.96:1.85
+FRXX0273:La Seyne-sur-Mer:France:43.09:5.88
+FRXX0274:Saint-Etienne:France:45.44:4.39
+FRXX0275:Saint-Malo:France:48.65:-2.03
+FRXX0276:Saint-Quentin:France:49.85:3.29
+FRXX0277:Tourcoing:France:50.72:3.16
+FRXX0278:Villeneuve-d'Ascq:France:50.62:3.13
+FRXX0279:Marne-la-Vallee:France:48.86:2.60
+FRXX0280:Saint-Quentin-en-Yvelines:France:48.79:2.04
+FRXX0281:Boulogne-Billancourt:France:48.83:2.24
+FRXX0282:Argenteuil:France:48.94:2.25
+FRXX0283:Montreuil-sous-Bois:France:48.86:2.44
+FRXX0284:Creteil:France:48.79:2.45
+FRXX0285:Aulnay-sous-Bois:France:48.94:2.50
+FRXX0286:Vitry-sur-Seine:France:48.79:2.39
+FRXX0287:Colombes:France:48.92:2.26
+FRXX0288:Asnieres-sur-Seine:France:48.92:2.28
+FRXX0289:Rueil-Malmaison:France:48.88:2.18
+FRXX0290:Champigny-sur-Marne:France:48.82:2.50
+FRXX0291:Saint-Maur-des-Fosses:France:48.80:2.50
+FRXX0292:Courbevoie:France:48.90:2.26
+FRXX0293:Drancy:France:48.92:2.45
+FRXX0294:Antony:France:48.75:2.30
+FRXX0295:Neuilly-sur-Seine:France:48.88:2.27
+FRXX0296:Sarcelles:France:49.00:2.83
+FRXX0297:Cergy:France:49.05:2.04
+FRXX0298:Levallois-Perret:France:48.89:2.29
+FRXX0299:Evian:France:46.40:6.59
+FRXX0300:Vittefleur:France:49.82:.64
+FRXX0301:invalide:invalide:invalide:invalide
+FRXX0302:Ploermal:France:47.93:-2.39
+FRXX0303:Escoublac-la-Baule:France:47.29:-2.51
+FRXX0304:Redon:France:47.65:-2.08
+FRXX0305:Ancenis:France:47.37:-1.18
+FRXX0306:Clisson:France:47.09:-1.28
+FRXX0307:Challans:France:46.85:-1.88
+FRXX0308:Montaigu:France:46.98:-1.31
+FRXX0309:Chateaubriant:France:47.72:-1.38
+FRXX0310:Guer:France:47.90:-2.12
+FRXX0311:Doue:France:47.20:-.27
+FRXX0312:Segre:France:47.69:-.87
+FRXX0313:Chantonnay:France:46.69:-1.05
+FRXX0314:Angouleme:France:45.65:.16
+FRXX0315:Fontenay-le-Comte:France:46.47:-.81
+FRXX0316:Parthenay:France:46.65:-.25
+FRXX0317:Montpon:France:45.01:.16
+FRXX0318:La Reole:France:44.59:-.03
+FRXX0319:Casteljaloux:France:44.32:.09
+FRXX0320:Montendre:France:45.29:-.41
+FRXX0321:Mimizan:France:44.20:-1.23
+FRXX0322:Tonneins:France:44.39:.31
+FRXX0323:Andernos-les-Bains:France:44.75:-1.10
+FRXX0324:Bazas:France:44.43:-.21
+FRXX0325:La Teste:France:44.64:-1.07
+FRXX0326:Marmande:France:44.50:.16
+FRXX0327:Orthez:France:43.49:-.77
+FRXX0328:Aire-sur-l'Adour:France:43.70:-.26
+FRXX0329:Vic-Fezensac:France:43.76:.30
+FRXX0330:Castelnaudary:France:43.32:1.95
+FRXX0331:Castres:France:43.61:2.24
+FRXX0332:L'Isle-Jourdain:France:43.61:1.08
+FRXX0333:Condom:France:43.96:.37
+FRXX0334:Decazeville:France:44.56:2.25
+FRXX0335:Beaumont:France:45.75:3.10
+FRXX0336:Requista:France:44.03:2.54
+FRXX0337:Lezignan:France:43.20:2.76
+FRXX0338:Narbonne:France:43.18:3.00
+FRXX0339:Le Blanc:France:46.63:1.06
+FRXX0340:Montmorillon:France:46.43:.87
+FRXX0341:Loudun:France:47.01:.08
+FRXX0342:Confolens:France:46.01:.67
+FRXX0343:Saint-Yrieix-la-Perche:France:45.52:1.21
+FRXX0344:La Souterraine:France:46.24:1.49
+FRXX0345:Tulle:France:45.26:1.77
+FRXX0346:Vendome:France:47.78:1.07
+FRXX0347:Saint-Calais:France:47.92:.75
+FRXX0348:Chatillon-sur-Indre:France:46.99:1.18
+FRXX0349:Amboise:France:47.41:.98
+FRXX0350:Le Haye-Descartes:France:46.97:.70
+FRXX0351:Chateau-Renault:France:47.59:.91
+FRXX0352:Loches:France:47.13:.99
+FRXX0353:La Ferte-Saint-Aubin:France:47.71:1.94
+FRXX0354:Romarantin:France:47.36:1.74
+FRXX0355:La Motte-Beuvron:France:47.60:2.03
+FRXX0356:Mantes-la-Jolie:France:48.99:1.72
+FRXX0357:Compiegne:France:49.42:2.82
+FRXX0358:Sens:France:48.20:3.29
+FRXX0359:Tonnerre:France:47.86:3.97
+FRXX0360:Annecy:France:45.90:6.13
+FRXX0361:Montreuil:France:50.47:1.77
+FRXX0362:Saint-Maximin-la-Sainte-Baume:France:43.45:5.86
+FRXX0363:Veynes:France:44.53:5.82
+FRXX0364:Manosque:France:43.83:5.79
+FRXX0365:Castellane:France:43.85:6.51
+FRXX0366:Oyonnax:France:46.26:5.66
+FRXX0367:Sarrebourg:France:48.73:7.05
+FRXX0368:Argentan:France:48.74:-.03
+FRXX0369:Lannemezan:France:43.13:.39
+FRXX0370:Saint-Gaudens:France:43.11:.72
+FRXX0371:Port-la-Nouvelle:France:43.02:3.04
+FRXX0372:Bruay-en-Artois:France:50.49:2.54
+FRXX0373:Fougeres:France:48.35:-1.20
+FRXX0374:Loudeac:France:48.18:-2.75
+FRXX0375:Guilvinec:France:47.79:-4.28
+FRXX0376:Rosporden:France:47.96:-3.83
+FRXX0377:Locmine:France:47.89:-2.84
+FRXX0378:Saumur:France:47.26:-.08
+FRXX0379:Melle:France:46.23:-.14
+FRXX0380:Morcenx:France:44.03:-.91
+FRXX0381:Parentis-en-Born:France:44.35:-1.07
+FRXX0382:Lavaur:France:43.70:1.81
+FRXX0383:Figeac:France:44.61:2.04
+FRXX0384:Chatellerault:France:46.82:.54
+FRXX0385:Chateau-du-Loir:France:47.70:.42
+FRXX0386:Bernay:France:49.09:.59
+FRXX0387:Chatillon-sur-Seine:France:47.86:4.57
+FRXX0388:Salernes:France:43.56:6.23
+FRXX0389:Montlucon:France:46.34:2.61
+FRXX0390:Feurs:France:45.74:4.22
+FRXX0391:Bourgoin:France:45.59:5.28
+FRXX0392:Beaune:France:47.02:4.84
+FRXX0393:Bourbonne-les-Bains:France:47.95:5.75
+FRXX0394:Chalons-sur-Marne:France:48.96:4.36
+FRXX0395:Dieuze:France:48.81:6.72
+FRXX0396:Avallon:France:47.49:3.91
+FRXX0397:Corbigny:France:47.26:3.68
+FRXX0398:La Chatre:France:46.58:1.99
+FRXX0399:Aubigney-sur-Nere:France:47.49:2.44
+FRXX0400:Cosne-sur-Loire:France:47.41:2.93
+FRXX0401:Gien:France:47.68:2.63
+FRXX0402:Saint-Amand-Mont-Rond:France:46.72:2.50
+FRXX0403:La Machine:France:46.89:3.47
+FRXX0404:Le Mont-Dore:France:45.58:2.80
+FRXX0405:Bourbon-Lancy:France:46.62:3.77
+FRXX0406:Brioude:France:45.29:3.38
+FRXX0407:Commentry:France:46.29:2.74
+FRXX0408:Moulins:France:46.57:3.34
+FRXX0409:Annonay:France:45.24:4.67
+FRXX0410:Gueugnon:France:46.60:4.06
+FRXX0411:Paray-le-Monial:France:46.45:4.12
+FRXX0412:La Cote-Saint-Andre:France:45.39:5.26
+FRXX0413:Hauteville-Lompnes:France:45.98:5.60
+FRXX0414:Belley:France:45.76:5.69
+FRXX0415:Chalindrey:France:47.80:5.43
+FRXX0416:Chaumont:France:48.11:5.14
+FRXX0417:Langres:France:47.86:5.33
+FRXX0418:Chalon-sur-Saone:France:46.78:4.85
+FRXX0419:Dole:France:47.09:5.49
+FRXX0420:Le Creusot:France:46.81:4.43
+FRXX0421:Montceau-les-Mines:France:46.68:4.37
+FRXX0422:Saulieu:France:47.28:4.23
+FRXX0423:Pontarlier:France:46.90:6.36
+FRXX0424:Gray:France:47.45:5.59
+FRXX0425:Luxeuil-les-Bains:France:47.82:6.38
+FRXX0426:Lure:France:47.68:6.49
+FRXX0427:Ales:France:44.13:4.08
+FRXX0428:Apt:France:43.88:5.39
+FRXX0429:Valenciennes:France:50.36:3.52
+FRXX0430:Soissons:France:49.38:3.33
+FRXX0431:Verdun:France:49.16:5.38
+FRXX0432:Luz Ardiden Saint Sauveur:France:42.87:-.01
+FRXX0433:Les Angles:France:42.57:2.07
+FRXX0434:Luchon Superbagneres:France:42.77:.58
+FRXX0435:Pyrenees 2000:France:42.52:2.06
+FRXX0436:Ax-les-Thermes:France:42.72:1.84
+FRXX0437:Saint Jean Montclar:France:44.41:6.35
+FRXX0438:Guzet:France:42.81:1.26
+FRXX0439:Seix:France:42.86:1.20
+FRXX0440:Albiez Montrond:France:45.22:6.34
+FRXX0441:Gresse-en-Vercors:France:44.90:5.57
+FRXX0442:St Colomban Des Villards:France:45.29:6.23
+FRXX0443:St Martin De Belleville:France:45.38:6.50
+FRXX0444:Notre-Dame-de-Bellecombe:France:45.81:6.52
+FRXX0445:Peisey Vallandry:France:45.55:6.76
+FRXX0446:invalide:invalide:invalide:invalide
+FRXX0447:Pras-de-Lys:France:46.14:6.59
+FRXX0448:Ste Foy Tarentaise:France:45.59:6.88
+FRXX0449:invalide:invalide:invalide:invalide
+FRXX0450:Termignon La Vanoise:France:45.45:6.80
+FRXX0451:Crest-Voland Cohennoz:France:45.80:6.51
+FRXX0452:Piau Engaly:France:42.78:.16
+FRXX0453:Ancelle:France:44.62:6.21
+FRXX0454:Saint Leger les Melezes:France:44.64:6.20
+FRXX0455:Super Besse:France:45.51:2.86
+FRXX0456:Les Brasses:France:46.14:6.46
+FRXX0457:Seyne-les-Alpes:France:44.35:6.36
+FRXX0458:Veigy-Foncenex:France:46.27:6.26
+FRXX0459:Molines-en-Queyras:France:44.73:6.84
+FRXX0460:Gaillard:France:46.18:6.21
+FRXX0461:Capvern les Bains:France:43.12:.31
+FRXX0462:invalide:invalide:invalide:invalide
+FRXX0463:Areches Beaufort:France:45.69:6.57
+FRXX0464:Argentiere:France:45.99:6.93
+FRXX0465:Vaujany:France:45.16:6.08
+FRXX0466:Avoriaz:France:46.19:6.77
+FRXX0467:invalide:invalide:invalide:invalide
+FRXX0468:Chatel:France:46.27:6.84
+FRXX0469:Combloux:France:45.90:6.64
+FRXX0470:Montchavin - Les Coches:France:45.56:6.74
+FRXX0471:Courchevel:France:45.41:6.64
+FRXX0472:Flumet:France:45.82:6.51
+FRXX0473:invalide:invalide:invalide:invalide
+FRXX0474:invalide:invalide:invalide:invalide
+FRXX0475:La Norma:France:45.20:6.70
+FRXX0476:La Rosiere 1850:France:45.62:6.85
+FRXX0477:Bessans:France:45.32:6.99
+FRXX0478:La Toussuire:France:45.26:6.26
+FRXX0479:invalide:invalide:invalide:invalide
+FRXX0480:Le Grand-Bornand:France:45.94:6.43
+FRXX0481:Les Sept Laux:France:45.26:6.02
+FRXX0482:Les Arcs:France:45.58:6.83
+FRXX0483:Les Contamines - Hauteluce:France:45.82:6.72
+FRXX0484:Les Gets:France:46.16:6.67
+FRXX0485:Les Houches:France:45.89:6.80
+FRXX0486:Les Menuires:France:45.32:6.54
+FRXX0487:Les Saisies:France:45.76:6.54
+FRXX0488:invalide:invalide:invalide:invalide
+FRXX0489:Pras-sur-Arly:France:45.84:6.57
+FRXX0490:invalide:invalide:invalide:invalide
+FRXX0491:St Francois Longchamp:France:45.41:6.35
+FRXX0492:Tignes:France:45.47:6.91
+FRXX0493:Val-d'Isere:France:45.45:6.98
+FRXX0494:Val Thorens:France:45.29:6.58
+FRXX0495:Valloire:France:45.17:6.43
+FRXX0496:Valmeinier:France:45.18:6.48
+FRXX0497:Villard de Lans Correncon:France:45.05:5.56
+FRXX0498:invalide:invalide:invalide:invalide
+FRXX0499:Isola 2000:France:44.19:7.16
+FRXX0500:Les Orres:France:44.51:6.55
+FRXX0501:invalide:invalide:invalide:invalide
+FRXX0502:Pra Loup:France:44.37:6.61
+FRXX0503:Puy Saint Vincent:France:44.83:6.49
+FRXX0504:Saint-Lary-Soulan:France:42.82:.32
+FRXX0505:Saint-Jean-d'Aulps:France:46.23:6.65
+FRXX0506:invalide:invalide:invalide:invalide
+FRXX0507:Saint Sorlin d'Arves:France:45.22:6.23
+FRXX0508:Reallon:France:44.60:6.36
+FRXX0509:Aussois:France:45.23:6.74
+FRXX0510:Saint-Jean-d'Arves:France:45.21:6.27
+FRXX0511:invalide:invalide:invalide:invalide
+FRXX0512:invalide:invalide:invalide:invalide
+FRXX0513:invalide:invalide:invalide:invalide
+FRXX0514:La Bresse:France:48.01:6.88
+FRXX0515:Oz-en-Oisans:France:45.13:6.07
+FRXX0516:Manigod:France:45.86:6.37
+FRXX0517:Gourette:France:42.96:-.33
+FRXX0518:Peyragudes:France:42.79:.41
+FRXX0519:invalide:invalide:invalide:invalide
+FRXX0520:La Joue du Loup:France:44.69:5.89
+FRXX0521:Metabief:France:46.77:6.35
+FRXX0522:Champagny-en-Vanoise:France:45.46:6.69
+FRXX0523:Saint Gervais:France:45.89:6.71
+FRXX0524:Val d'Allos La Foux:France:43.81:6.68
+FRXX0525:Gerardmer:France:48.07:6.87
+FRXX0526:Chorges:France:44.55:6.28
+FRXX0527:invalide:invalide:invalide:invalide
+FRXX0528:Le Lioran:France:45.09:2.75
+FRXX0529:Autrans:France:45.17:5.54
+FRXX0530:Chamrousse:France:45.13:5.88
+FRXX0531:Flaine:France:46.01:6.71
+FRXX0532:La Plagne:France:45.51:6.67
+FRXX0533:Le Corbier:France:45.24:6.27
+FRXX0534:Les Deux Alpes:France:45.01:6.12
+FRXX0535:invalide:invalide:invalide:invalide
+FRXX0536:Val Cenis:France:45.29:6.88
+FRXX0537:Valmorel la Belle:France:45.45:6.44
+FRXX0538:Risoul:France:44.65:6.64
+FRXX0539:Morillon:France:46.08:6.68
+FRXX0540:La Plagne Montalbert:France:45.53:6.63
+FRXX0541:Auron Saint Etienne de Tinee:France:44.22:6.93
+FRXX0542:Giez:France:45.75:6.25
+FRXX0543:Arreau:France:42.90:.36
+FRXX0544:Arvieux:France:44.77:6.74
+FRXX0545:Auris En Oisans:France:45.06:6.08
+FRXX0546:invalide:invalide:invalide:invalide
+FRXX0547:La Tania:France:45.43:6.59
+FRXX0548:Les Carroz:France:46.05:6.62
+FRXX0549:invalide:invalide:invalide:invalide
+FRXX0550:Valfrejus:France:45.17:6.65
+FRXX0551:Font Romeu:France:42.51:2.04
+FRXX0552:Superdevoluy:France:44.69:5.94
+FRXX0553:Montgenevre:France:44.93:6.72
+FRXX0554:Chaillol:France:44.68:6.16
