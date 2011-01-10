@@ -1,7 +1,12 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
-
-import sys, urllib, getopt,os, commands,re
+import datetime
+import sys
+import urllib
+import getopt
+import os
+import commands
+import re
 from xml.dom.minidom import Document
 from xml.dom import minidom
 from math import cos, sin , sqrt, asin, radians
@@ -172,9 +177,10 @@ class CreateXml():
       self._starttime = self.doc.createElement("starttime")
       self._background.appendChild(self._starttime)
       # Creation des noeuds de startime
-      self._createN(self._starttime,"year","2006")
-      self._createN(self._starttime,"month","01")
-      self._createN(self._starttime,"day","01")
+      today = datetime.date.today()
+      self._createN(self._starttime,"year", str(today.year))
+      self._createN(self._starttime,"month", str(today.month))
+      self._createN(self._starttime,"day", str(today.day))
       # TOCHECK
       # Bug de gnome chez moi? je dois commencer a 1 heure, et faire dans la suite comme ci cela etait 0h.
       # sinon au lieu d'avoir un apres midi (2.jpg) jusqu'a 5pm, je l'ai jusqu'a 4pm (pb heure gmt?)
